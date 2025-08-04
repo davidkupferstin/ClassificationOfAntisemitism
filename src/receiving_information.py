@@ -1,0 +1,2 @@
+class ReceivingInformation:
+    pass

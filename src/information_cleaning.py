@@ -1,0 +1,2 @@
+class InformationCleaning:
+    pass
